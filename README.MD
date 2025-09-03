@@ -1,7 +1,7 @@
 # Destini – Interactive Story App  
 *A branching narrative experiment to learn Swift, Xcode, and app architecture*  
 
-![App Screenshot](Documentation/screeb1.png)  
+![App Screenshot](Documentation/Screen1.png)  
 
 ---
 
@@ -23,7 +23,7 @@ The app is a lightweight interactive narrative where the user selects between tw
 
 The quirky and dark humor of the story was part of the fun—it helped me test and confirm that the branching logic was working as intended.  
 
-![Ending Screenshot](Documentation/screen3.png)  
+![Ending Screenshot](Documentation/Screen3.png)  
 
 ---
 
